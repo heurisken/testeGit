@@ -1,2 +1,4 @@
 1 Primeira linha;
 2 Segunda linha;
+novaBranch
+3 Terceira linha;
